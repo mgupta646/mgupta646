@@ -107,6 +107,17 @@ I came to AI products from **aerospace engineering**, where a wrong input assump
 
 <p align="center"><a href="https://mgupta646.github.io/#quick"><b>See every case study, including ROSI, MaGic Filter, FlowMind AI and more →</b></a></p>
 
+## Open-source tools
+
+Small, tested Python tools, each with CI and a live demo, built around one habit: **check that the evaluation, the data and the SQL mean what they claim to.**
+
+| Project | What it does | Demo |
+|---|---|---|
+| **[llm-rubric-eval](https://github.com/mgupta646/llm-rubric-eval)** | Scores LLM answers on verifiable correctness and keeps fluency on a separate axis. It flags *confidently wrong* answers and shows when a style-weighted rubric would pick the wrong model. | [report](https://mgupta646.github.io/llm-rubric-eval/) |
+| **[nl2sql-guard](https://github.com/mgupta646/nl2sql-guard)** | Plain-English questions over DuckDB. The LLM proposes SQL; AST-based guardrails allow only one read-only, allowlisted query, with schema grounding and one self-correction. | [demo](https://mgupta646.github.io/nl2sql-guard/) |
+| **[datalint](https://github.com/mgupta646/datalint)** | YAML data contracts plus zero-config semantic checks (does each column mean what its name says?), on DuckDB, with a CI exit code. | [report](https://mgupta646.github.io/datalint/) |
+| **[product-analytics-toolkit](https://github.com/mgupta646/product-analytics-toolkit)** | SRM-gated A/B testing, ordered funnels and cohort retention. Zero dependencies, statistics verified against SciPy, one-command dashboard. | [dashboard](https://mgupta646.github.io/product-analytics-toolkit/) |
+
 ## Toolkit
 
 **AI & product** &nbsp;
