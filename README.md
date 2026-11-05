@@ -35,15 +35,15 @@ I came to AI products from **aerospace engineering**, where a wrong input assump
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://vlabcb.vercel.app"><img src="assets/projects/vlab.png" alt="V-Lab Research Assistant" width="100%"></a>
-      <h3>V-Lab Research Assistant</h3>
-      <p>Multi-agent assistant for NYU Stern's public risk platform. I benchmarked <b>6 LLM providers</b> on a <b>40-point rubric</b>, caught that it rewarded fluency over correctness, rebuilt it, and shipped after <b>3 architectures</b>. After launch, I used usage logs to rank coverage gaps.</p>
+      <a href="https://github.com/mgupta646/mango-voice-agent"><img src="assets/projects/mango.png" alt="Mango local voice assistant with its robot companion and voice controls" width="100%"></a>
+      <h3>Mango · Local Voice Assistant</h3>
+      <p>A personal assistant that lives on the desktop as a small robot. <b>Local speech recognition</b> and a <b>3.4B language model</b> handle conversations, with prepared replies for common questions, sourced web searches and editable memory. Spoken answers have compact captions that follow the voice.</p>
       <p>
-        <img src="https://img.shields.io/badge/Multi--agent-6A2CA8?style=flat-square" alt="Multi-agent">
-        <img src="https://img.shields.io/badge/LLM_evaluation-6A2CA8?style=flat-square" alt="LLM evaluation">
-        <img src="https://img.shields.io/badge/KB_routing-6A2CA8?style=flat-square" alt="KB routing">
+        <img src="https://img.shields.io/badge/Local_AI-6A2CA8?style=flat-square" alt="Local AI">
+        <img src="https://img.shields.io/badge/Offline_speech-6A2CA8?style=flat-square" alt="Offline speech">
+        <img src="https://img.shields.io/badge/Electron-6A2CA8?style=flat-square" alt="Electron">
       </p>
-      <a href="https://vlabcb.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/mgupta646/vlabcb">Code</a>
+      <a href="https://github.com/mgupta646/mango-voice-agent"><b>Code &amp; setup</b></a> · <a href="https://github.com/mgupta646/mango-voice-agent/blob/main/docs/ARCHITECTURE.md">How it works</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://aviation-chat.vercel.app/"><img src="assets/projects/aviation.png" alt="Aviation Crisis Intelligence" width="100%"></a>
